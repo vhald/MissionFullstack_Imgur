@@ -1,0 +1,11 @@
+We are going to build a Real time chat app.
+
+with the help of
+ 
+1. Login/Signup to access the application
+this can be implemented using simple express
+
+
+Invite people using emails
+create chat rooms
+Add one-o-one chat with other users 
